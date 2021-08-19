@@ -24,4 +24,10 @@ public interface CourseMapper {
     void updateTeacher(Teacher teacher);
     /*test*/
     void testCourse();
+    void test1();
+    void test2();
+    void test3();
+    void test4();
+    void test5();
+    void test6();
 }

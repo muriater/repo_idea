@@ -22,18 +22,4 @@ public interface CourseMapper {
     void updateCourse(Course course);
     /*更新讲师信息*/
     void updateTeacher(Teacher teacher);
-    /*test*/
-    void testCourse();
-    void test11();
-    void test21();
-    void test31();
-    void test41();
-    void test51();
-    void test61();
-    void test1();
-    void test2();
-    void test3();
-    void test4();
-    void test5();
-    void test6();
 }

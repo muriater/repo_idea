@@ -8,5 +8,5 @@ public interface AccountMapper {
     List<Account> findAll();
 
 
-    void Test();
+
 }
